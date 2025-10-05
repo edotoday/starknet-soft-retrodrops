@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=25&pause=1000&color=09F702&width=435&lines=Soft+for+StarkNet+retrodrop)](https://git.io/typing-svg)
 
 # What do I need to run the software?
-In order for the software to start working, you need to:
+In order for the software to start working, you need to
 - Download node js Hydrogen from the official website
 - Download the project folder `git clone https://github.com/SYBIL-MAFIA/starknet-soft-retrodrops`
 - Go to project folder `cd starknet-soft-retrodrops`
